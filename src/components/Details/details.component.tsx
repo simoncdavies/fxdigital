@@ -119,7 +119,7 @@ const Details = ({ details, type }: DetailsType) => {
 
   const buttonFocussed = true;
 
-  console.log(details);
+  // console.log(details);
   return (
     <StyledDetails background={backdrop}>
       <StyledDetailsContainer>
